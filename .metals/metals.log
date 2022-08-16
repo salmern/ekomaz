@@ -1,0 +1,17 @@
+2022.08.14 00:51:20 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/salman/Desktop/ekomaz/.metals/lsp.trace.json or /home/salman/.cache/metals/lsp.trace.json
+2022.08.14 00:51:20 INFO  logging to file /home/salman/Desktop/ekomaz/.metals/metals.log
+2022.08.14 00:51:20 INFO  Started: Metals version 0.11.8 in workspace '/home/salman/Desktop/ekomaz' for client Visual Studio Code 1.70.1.
+2022.08.14 00:51:27 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.14 00:51:28 INFO  time: initialize in 7.73s
+2022.08.14 00:51:28 WARN  Build server is not auto-connectable.
+2022.08.14 00:51:28 WARN  no build tool detected in workspace '/home/salman/Desktop/ekomaz'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.08.14 00:53:02 INFO  
+2022.08.14 00:53:02 INFO  Template applied in /home/salman/Desktop/./hello-world
+2022.08.14 00:53:02 INFO  
+2022.08.14 00:53:02 INFO  time: ran 'giter8.Giter8' in 7.24s
+2022.08.14 00:53:03 INFO  
+2022.08.14 00:53:03 INFO  Template applied in /home/salman/Desktop/./hello-world.scala
+2022.08.14 00:53:03 INFO  
+2022.08.14 00:53:03 INFO  time: ran 'giter8.Giter8' in 7.06s
+Aug 14, 2022 12:56:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
